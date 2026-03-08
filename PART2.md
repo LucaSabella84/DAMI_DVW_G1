@@ -52,3 +52,42 @@ This geographic story runs counter to the narrative implied by the poppy symbol 
 Poppyfield succeeds as a memorial and as an introduction to the scale of 20th-century conflict. It makes over 200 wars legible at a glance in a way that respects their gravity. As a data analysis tool, however, the logarithmic scale can mislead, bloom-size encoding sacrifices precision, and the poppy symbol carries a cultural framing that shapes which conflicts feel central.
 
 The most honest reading of Poppyfield is as a gateway, not a destination. Its success is in making viewers want to look further.
+
+---
+---
+
+# Part 2: Data Story — SDG 16: Is the World Becoming More Peaceful?
+
+## Sustainable Development Goal 16: Peace, Justice and Strong Institutions
+
+---
+
+## The Question
+
+Our Part 1 analysis of Poppyfield revealed over 200 armed conflicts in a single century and a geographic shift from Europe to Asia to Africa. This raises a broader question tied to SDG 16:
+
+**Is the world actually becoming more peaceful?**
+
+---
+
+## The Data Story
+
+**Dataset:** Uppsala Conflict Data Program (UCDP) — tracks every armed conflict worldwide since 1946.
+
+### Imagined Chart 1: Active Conflicts Per Year (1950–2024)
+
+A **line chart** showing the number of active armed conflicts per year.
+
+- **1950s–1980s:** Steady rise during the Cold War as proxy wars multiply.
+- **1989–1992:** Sharp dip as the Cold War ends — the "peace dividend."
+- **2010–2024:** Conflicts climb again, reaching **59 active conflicts in 2023** — the highest number since records began.
+
+**Insight:** The post-Cold War peace was temporary. The world is not trending toward peace.
+
+---
+
+## Conclusion
+
+SDG 16 envisions "peaceful and inclusive societies" by 2030. The data suggests we are moving in the opposite direction. While large-scale interstate wars have declined, the total number of active conflicts is at a record high, driven by civil wars and foreign interventions. Peace is not the default — it requires active investment.
+
+**Data sources:** Uppsala Conflict Data Program (UCDP), Our World in Data, World Bank Fragile States Index.
